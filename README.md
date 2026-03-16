@@ -17,7 +17,7 @@ The goal of this project is simple:
 
 > Use data to identify which characteristics of raw materials are causing poor manufacturing outcomes.
 
-This project demonstrates how **data science can be used to solve real engineering and manufacturing problems**, even without needing engineering knowledge.
+This project demonstrates how **data science can be used to solve real engineering and manufacturing problems**.
 
 ---
 
