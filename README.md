@@ -78,7 +78,7 @@ Simply think of these variables as **different characteristics of the raw materi
 
 ---
 
-# Step 1 — Load the Dataset
+# Load the Dataset
 
 First, we load the dataset into R.
 
@@ -86,7 +86,6 @@ First, we load the dataset into R.
 engineering_dataset <- read.csv(file.choose())
 ```
 
-This command imports the dataset so we can analyze it.
 
 ---
 
