@@ -67,20 +67,6 @@ The dataset contains several measurements taken from the material before it is u
 
 Simply think of these variables as **different characteristics of the raw material**.
 
-### Simple Analogy
-
-Imagine baking cookies.
-
-Cookie quality might depend on:
-
-- sugar amount
-- flour amount
-- butter amount
-- oven temperature
-
-If cookies taste bad, data analysis could help determine **which ingredient caused the problem**.
-
-This project follows the same idea, but with **manufacturing materials instead of cookies**.
 
 ---
 
