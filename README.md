@@ -63,7 +63,7 @@ The dataset contains several measurements taken from the material before it is u
 | DSC | Differential Scanning Calorimetry measurement |
 | TMA | Thermomechanical Analysis measurement |
 
-You **do not need engineering knowledge** to understand this.
+
 
 Simply think of these variables as **different characteristics of the raw material**.
 
