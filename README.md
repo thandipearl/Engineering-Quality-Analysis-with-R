@@ -89,7 +89,7 @@ engineering_dataset <- read.csv(file.choose())
 
 ---
 
-# Step 2 — Improve the Row Labels
+# Improve the Row Labels
 
 Each row represents a batch of material. To make plots easier to interpret, we combine the **Lot Number** and **Outcome** into the row names.
 
@@ -108,7 +108,7 @@ This helps us identify which batches performed well and which performed poorly w
 
 ---
 
-# Step 3 — Apply Principal Component Analysis (PCA)
+# Apply Principal Component Analysis (PCA)
 
 The dataset contains **six numerical measurements**:
 
@@ -121,13 +121,6 @@ The dataset contains **six numerical measurements**:
 
 Instead of analyzing all six variables individually, we apply **Principal Component Analysis (PCA)**.
 
-### What is PCA?
-
-PCA is a statistical method that:
-
-- Reduces many variables into a smaller number of components
-- Finds hidden patterns in complex data
-- Identifies which variables influence outcomes the most
 
 Think of PCA like **compressing information while keeping the most important patterns**.
 
@@ -137,7 +130,6 @@ We run PCA on the six numerical measurements.
 results <- prcomp(engineering_dataset[,3:8], scale = TRUE)
 ```
 
-### Why use `scale = TRUE`?
 
 Each measurement may use **different units**. Scaling ensures that every variable contributes equally to the analysis.
 
