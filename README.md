@@ -235,13 +235,9 @@ biplot(results, scale = 0)
 ```
 
 <img width="744" height="582" alt="7" src="https://github.com/user-attachments/assets/54b3e1b2-bc1a-4241-a842-315d6dc8191e" />
-
-
 ---
 
-# Understanding the Biplot
-
-A biplot displays:
+The biplot displays:
 
 - Each batch as a point
 - Each variable as an arrow showing its influence
