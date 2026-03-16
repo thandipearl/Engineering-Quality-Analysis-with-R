@@ -176,7 +176,10 @@ barplot(results$rotation[,3], main ="PC 3 Loading Plot")
 
 ## PC1 Loading Plot
 
-INSERT IMAGE: PC1 LOADING PLOT
+
+<img width="747" height="553" alt="pic4" src="https://github.com/user-attachments/assets/f5030fc1-a8b4-4220-a49f-8b9b3ce0ff23" />
+
+
 
 Interpretation:
 
@@ -192,7 +195,10 @@ This means that **particle size plays a major role in the dataset's variation**.
 
 ## PC2 Loading Plot
 
-INSERT IMAGE: PC2 LOADING PLOT
+
+<img width="743" height="576" alt="pic5" src="https://github.com/user-attachments/assets/d0eb8942-88d2-4789-a46c-f30c6a001fc8" />
+
+
 
 Interpretation:
 
@@ -207,7 +213,8 @@ These measurements relate to **thermal properties of the material**.
 
 ## PC3 Loading Plot
 
-INSERT IMAGE: PC3 LOADING PLOT
+<img width="742" height="585" alt="6" src="https://github.com/user-attachments/assets/cd061a42-75f0-46d6-8a34-07ff35d1705b" />
+
 
 Interpretation:
 
@@ -219,7 +226,7 @@ This means another independent pattern in the dataset is related to **heat behav
 
 ---
 
-# Step 6 — Create the PCA Biplot
+# Create the PCA Biplot
 
 Finally, we create a **biplot** to visualize the relationship between the batches and the variables.
 
