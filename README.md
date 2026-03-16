@@ -226,7 +226,7 @@ This means another independent pattern in the dataset is related to **heat behav
 
 ---
 
-# Create the PCA Biplot
+# Creating the PCA Biplot
 
 Finally, we create a **biplot** to visualize the relationship between the batches and the variables.
 
@@ -234,7 +234,8 @@ Finally, we create a **biplot** to visualize the relationship between the batche
 biplot(results, scale = 0)
 ```
 
-INSERT IMAGE: PCA BIPLOT
+<img width="744" height="582" alt="7" src="https://github.com/user-attachments/assets/54b3e1b2-bc1a-4241-a842-315d6dc8191e" />
+
 
 ---
 
