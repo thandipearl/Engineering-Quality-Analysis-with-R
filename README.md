@@ -19,6 +19,10 @@ The goal of this project is simple:
 
 This project demonstrates how **data science can be used to solve real engineering and manufacturing problems**.
 
+![appleIphone](https://github.com/user-attachments/assets/a67996a3-7f7b-4a24-ba58-2222e9cfbaac)
+
+
+
 ---
 
 # Business Problem
