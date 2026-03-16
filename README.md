@@ -135,7 +135,7 @@ Each measurement may use **different units**. Scaling ensures that every variabl
 
 ---
 
-# Step 4 — Determine the Number of Principal Components
+# Determine the Number of Principal Components
 
 PCA creates multiple **principal components**, each explaining a percentage of the variation in the dataset.
 
@@ -162,7 +162,7 @@ Since the first **three components explain most of the variation**, we focus on:
 
 ---
 
-# Step 5 — Interpret PCA Loadings
+# Interpret PCA Loadings
 
 Loading plots show **which variables influence each principal component**.
 
